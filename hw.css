@@ -1,0 +1,134 @@
+.main{
+    background-color: red;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    height: 45px;
+    width: 80%;
+    top: 8px;
+    display: inline-block;
+    position: fixed;
+}
+.bigspace{
+height: 500px;
+width: 100%;
+margin: 10px;
+position: relative;
+display: inline-block;
+top: 60px;
+}
+.blackbox{
+    height: 75%;
+    width: 40px;
+    top: 20px;
+    position: absolute;
+    background-color: black;
+    display: inline-block;
+    margin: 6px;
+}
+.brownbox{
+    height: 75%;
+    width: 40%;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    background-color: rgba(131, 73, 26, 0.877);
+    display: inline-block;
+    margin: 6px;
+}
+.small{
+    height: 50px;
+    width: 220px;
+    top: 20px;
+    left: 75px;
+    margin: 18px;
+    background-color: blue;
+    position: absolute;
+    display: inline-block;
+}
+.para{
+    height: 70px;
+    width: 160px;
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    top: 88px;
+    left: 100px;
+    display: inline-block;
+    margin: 8px;
+}
+.pinkbox{
+    height: 38%;
+    width: 40%;
+    top: 20px;
+    right: 130px;
+    position: absolute;
+    background-color: rgba(255, 25, 186, 0.959);
+    margin: 8px;
+    display: inline-block;
+}
+.text{
+    top: 20px;
+    left: 40px;
+    position: absolute;
+    color: white;
+    height: 40px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    margin: 5px;
+}
+.whitebox{
+    height: 40px;
+    width: 385px;
+    top: 70px;
+    left: 75px;
+    margin: 8px;
+    background-color: rgb(240, 240, 248);
+    position: absolute;
+    display: inline-block;
+}
+.greenbox{
+    height: 38%;
+    width: 40%;
+    top: 220px;
+    right: 130px;
+    position: absolute;
+    background-color: rgba(83, 228, 15, 0.959);
+    margin: 8px;
+    display: inline-block;
+}
+.text1{
+    top: 15px;
+    left: 110px;
+    position: absolute;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: 27px;
+    text-align: center;
+    display: inline-block;
+    margin: 8px;
+}
+.blackbox1{
+    height: 40px;
+    width: 385px;
+    top: 60px;
+    left: 75px;
+    margin: 8px;
+    background-color: rgb(15, 15, 15);
+    position: absolute;
+    display: inline-block;
+}
+.darkgreen{
+    top: 0px;
+    right: 300px;
+    position: fixed;
+    margin: 2px;
+    display: inline-block;
+    background-color: darkgreen;
+    height: 90px;
+    width: 40px;
+}
